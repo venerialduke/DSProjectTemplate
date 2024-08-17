@@ -4,7 +4,7 @@ Template repo for DS related projects
 
 ## Virtual Environment
 
-Run the following in a terminal to create your venv
+Run the following in a terminal (CMD not PS) to create your venv
 
 ```sh
 python -m venv myenv
