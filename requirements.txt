@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+jupyterlab
+matplotlib
+scikit-learn
+db-dtypes
